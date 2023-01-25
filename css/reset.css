@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    font-family: var(--primary-font);
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--paragraph-color);
+}
+
+html {
+    scroll-behavior: smooth;
+}

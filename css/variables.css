@@ -1,0 +1,12 @@
+:root {
+    --color-add-to-cart: hsl(158, 36%, 37%);
+    --main-backgroung: hsl(30, 38%, 92%);
+    --title-color: hsl(212, 21%, 14%);
+    --info-div-background: hsl(0, 0%, 100%);
+    --paragraph-color: hsl(228, 12%, 48%);
+}
+
+:root {
+    --primary-font: 'Montserrat', sans-serif;
+    --secondary-font: 'Fraunces', serif;;
+}
